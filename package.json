@@ -1,0 +1,22 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "learning node express and mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foak77/naTours.git"
+  },
+  "author": "Fred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foak77/naTours/issues"
+  },
+  "homepage": "https://github.com/foak77/naTours#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
